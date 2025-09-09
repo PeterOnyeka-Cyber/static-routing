@@ -1,5 +1,8 @@
 # static-routing
 My Project on Static Routing
+
+## watch my video as i do it live
+https://www.loom.com/share/9bbc9a285a024df08a6214b315127bef?sid=5571a47f-d9b2-4e6c-8c03-b5f65437f396
 ## Steps
 
 ### Setting Up and Configuration
